@@ -1,4 +1,5 @@
 # Flot [![Build status](https://travis-ci.org/flot/flot.png)](https://travis-ci.org/flot/flot)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fflot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fflot?ref=badge_shield)
 
 ## About ##
 
@@ -108,3 +109,7 @@ examples/axes-time-zones/index.html.
 [flashcanvas]: http://code.google.com/p/flashcanvas/
 [timezone-js]: https://github.com/mde/timezone-js
 [olson]: http://ftp.iana.org/time-zones
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fflot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fflot?ref=badge_large)
